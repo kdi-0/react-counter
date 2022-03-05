@@ -1,3 +1,3 @@
-#Overview
+Overview
 
-###Simple app showcasing main react features and patterns
+Simple app showcasing main react features and patterns
